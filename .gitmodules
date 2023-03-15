@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "covid19us"]
+	path = covid19us
+	url = https://github.com/aedobbyn/covid19us
+	shallow = true
+	registered = true
 [submodule "multicolor"]
 	path = multicolor
 	url = https://github.com/aedobbyn/multicolor

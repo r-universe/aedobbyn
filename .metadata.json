@@ -1,5 +1,9 @@
 [
   {
+    "package": "covid19us",
+    "oncran": true
+  },
+  {
     "package": "multicolor",
     "oncran": true
   }
