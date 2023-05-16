@@ -13,8 +13,3 @@
 	url = https://github.com/aedobbyn/covid19us
 	shallow = true
 	registered = true
-[submodule "multicolor"]
-	path = multicolor
-	url = https://github.com/aedobbyn/multicolor
-	shallow = true
-	registered = true
